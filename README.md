@@ -3,7 +3,7 @@
   <p><strong>Point of Sales (POS) Web Application for Modern Businesses</strong></p>
   <p>
     <img src="https://img.shields.io/badge/TypeScript-97.1%25-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/CSS-2.0%25-663399?logo=css3&logoColor=white" alt="CSS">
+    <img src="https://img.shields.io/badge/Next.js-2.0%25-663399?logo=nextdotjs&logoColor=white" alt="Next.js">
     <img src="https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white" alt="Docker">
     <img src="https://img.shields.io/badge/Status-Active-00C853" alt="Status">
     <img src="https://img.shields.io/github/license/mubasyir19/Waroeng" alt="License">
@@ -29,10 +29,9 @@
 
 ### Core Technologies
 
-- **Frontend**: TypeScript, React 18 / Vue 3, Vite, TailwindCSS / CSS Modules
-- **Backend**: TypeScript, Node.js, Express.js, Prisma ORM / Sequelize
-- **Database**: PostgreSQL 15 / MySQL 8
-- **Caching**: Redis (optional for session management)
+- **Frontend**: TypeScript, Next.js, TailwindCSS, Shadcn UI
+- **Backend**: TypeScript, Node.js, Express.js, Prisma ORM
+- **Database**: PostgreSQL 15
 - **Containerization**: Docker, Docker Compose
 
 ### Development Tools
